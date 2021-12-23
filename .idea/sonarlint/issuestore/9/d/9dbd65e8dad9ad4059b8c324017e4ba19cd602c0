@@ -1,0 +1,6 @@
+
+J
+java:S22014"-The return value of "substring" must be used.(˜§ï“8ø¤Î§Þ/
+q	java:S116"WRename this field "DEFAULT_INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÀ}8ø¤Î§Þ/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(üÆ©áúÿÿÿÿ8ø¤Î§Þ/

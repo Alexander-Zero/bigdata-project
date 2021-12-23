@@ -1,0 +1,9 @@
+
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(ö£žÅ8ÎÏÌ§Þ/
+t	java:S127O"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸Ï¼ó8¶£Ë§Þ/
+U	java:S106["9Replace this use of System.out or System.err by a logger.(²¨ç÷8¶£Ë§Þ/
+Q
+java:S1066N"/Merge this if statement with the enclosing one.(˜ÝÍÉüÿÿÿÿ8¶£Ë§Þ/
+
+java:S3252o"bUse static access with "org.apache.hadoop.mapreduce.lib.input.FileInputFormat" for "addInputPath".(ù××µ8¶£Ë§Þ/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(†äÉ“ùÿÿÿÿ8¶£Ë§Þ/

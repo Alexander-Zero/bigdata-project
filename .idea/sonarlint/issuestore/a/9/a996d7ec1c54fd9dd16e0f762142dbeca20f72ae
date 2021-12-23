@@ -1,0 +1,22 @@
+
+=
+java:S2189C""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+C
+java:S16040"(Make this anonymous inner class a lambda(Û®’’úÿÿÿÿ
+W
+java:S2259t"AA "NullPointerException" could be thrown; "con" is nullable here.(½ç±˜
+O
+java:S2168-"9Remove this dangerous instance of double-checked locking.(ÛÉø¬
+a
+java:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(üÍ”ûÿÿÿÿ
+U
+java:S1118T":Add a private constructor to hide the implicit public one.(Ê¢üŠúÿÿÿÿ
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(ÆòàŒ
+H
+java:S1135j"2Complete the task associated to this TODO comment.(Œœíå
+@
+java:S1181p"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+@
+java:S1181u"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+E
+java:S2093_"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

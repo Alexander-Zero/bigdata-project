@@ -1,0 +1,7 @@
+
+‘
+java:S1845"tRename field "name" to prevent any misunderstanding/clash with method "name" defined in superclass "java.lang.Enum".(¾ë„¿8ÑÄÁ§Ş/
+K
+java:S2786")Remove this redundant "static" qualifier.(ü¥Èøÿÿÿÿ8ÑÄÁ§Ş/
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ë¦É™8ÑÄÁ§Ş/

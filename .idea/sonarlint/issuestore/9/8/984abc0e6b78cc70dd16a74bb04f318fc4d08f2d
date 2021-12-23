@@ -1,0 +1,29 @@
+
+m
+java:S2095Ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ì¤è§8§üÌ²Ş/
+r
+java:S2095“"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­Ñ—Åûÿÿÿÿ8§üÌ²Ş/
+r
+java:S2095®"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¶¢–¾ÿÿÿÿÿ8§üÌ²Ş/
+m
+java:S2095ú"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(à½İº8§üÌ²Ş/
+R
+java:S1481>"0Remove this unused "outputValue" local variable.(íÜ²İüÿÿÿÿ8§üÌ²Ş/
+v
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Äì“(8§üÌ²Ş/
+m
+java:S2095‡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¼ôÎÄ8§üÌ²Ş/
+m
+java:S2095ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞèœÄ8§üÌ²Ş/
+p
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğù•8§üÌ²Ş/
+u	java:S127§"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸Ï¼ó8§üÌ²Ş/
+R
+java:S1066¦"/Merge this if statement with the enclosing one.(˜İÍÉüÿÿÿÿ8§üÌ²Ş/
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(Ï¿úå8§üÌ²Ş/
+t
+java:S1192ó"VDefine a constant instead of duplicating this literal "platform_dimension_id" 4 times.(¶è±ã8§üÌ²Ş/
+m
+java:S2095Í"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ì¤è§8§üÌ²Ş/
+m
+java:S2095Ÿ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(™·½Ì8§üÌ²Ş/

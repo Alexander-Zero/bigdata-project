@@ -1,0 +1,16 @@
+
+v
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ìû¤8Ç°â±Ş/
+
+java:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şõ™8ÅÆÈ±Ş/
+G
+java:S1181j"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8½½…²Ş/
+]	java:S125R"<This block of commented-out lines of code should be removed.(–ˆÍˆşÿÿÿÿ8îû¡²Ş/
+U
+java:S1874_"3Remove this use of "newInstance"; it is deprecated.(„Ôê€ûÿÿÿÿ8½½…²Ş/
+{
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒØäãúÿÿÿÿ8Ç°â±Ş/
+<
+java:S1640="Convert this Map to an EnumMap.(ìû¤8­¤³Ş/
+A
+java:S1640?"Convert this Map to an EnumMap.(ŒØäãúÿÿÿÿ8­¤³Ş/

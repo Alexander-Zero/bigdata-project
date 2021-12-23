@@ -1,0 +1,68 @@
+
+Q
+java:S3740#"/Provide the parametrized type for this generic.(³—Ğûÿÿÿÿ8şŠÿ¨Ş/
+L
+java:S37407"/Provide the parametrized type for this generic.(ª¾…”8şŠÿ¨Ş/
+K
+java:S3740h"/Provide the parametrized type for this generic.(ôÀé&8şŠÿ¨Ş/
+Q
+java:S3740i"/Provide the parametrized type for this generic.(ÔòŸùûÿÿÿÿ8şŠÿ¨Ş/
+Q
+java:S3740i"/Provide the parametrized type for this generic.(ÔòŸùûÿÿÿÿ8şŠÿ¨Ş/
+L
+java:S3740Œ"/Provide the parametrized type for this generic.(ïÑî8şŠÿ¨Ş/
+R
+java:S3740"/Provide the parametrized type for this generic.(ÔòŸùûÿÿÿÿ8şŠÿ¨Ş/
+R
+java:S3740"/Provide the parametrized type for this generic.(ÔòŸùûÿÿÿÿ8şŠÿ¨Ş/
+u	java:S127Â"XRefactor the code in order to not assign to this loop counter from within the loop body.(±Şˆ 8şŠÿ¨Ş/
+u	java:S127Å"XRefactor the code in order to not assign to this loop counter from within the loop body.(Í¶üÜ8şŠÿ¨Ş/
+z	java:S127È"XRefactor the code in order to not assign to this loop counter from within the loop body.(¶ÚæŸúÿÿÿÿ8şŠÿ¨Ş/
+^
+java:S2259r"AA "NullPointerException" could be thrown; "loc" is nullable here.(İÆÊ8şŠÿ¨Ş/
+q
+java:S1104‹"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬8şŠÿ¨Ş/
+s
+java:S1104Œ"PMake area a static final constant or non-public and provide accessors if needed.(€ê¦ƒÿÿÿÿÿ8şŠÿ¨Ş/
+q
+java:S1104¡"SMake beginIp a static final constant or non-public and provide accessors if needed.(ŞÕ¯8şŠÿ¨Ş/
+t
+java:S1104¢"QMake endIp a static final constant or non-public and provide accessors if needed.(Ë¹ƒûÿÿÿÿ8şŠÿ¨Ş/
+q
+java:S1104£"SMake country a static final constant or non-public and provide accessors if needed.(Ø¬8şŠÿ¨Ş/
+s
+java:S1104¤"PMake area a static final constant or non-public and provide accessors if needed.(€ê¦ƒÿÿÿÿÿ8şŠÿ¨Ş/
+E
+java:S1659+"#Declare "ipEnd" on a separate line.(—ÒËüÿÿÿÿ8şŠÿ¨Ş/
+x
+java:S1149#"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(³—Ğûÿÿÿÿ8şŠÿ¨Ş/
+}
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8şŠÿ¨Ş/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ÿì†8şŠÿ¨Ş/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(å«±ô8şŠÿ¨Ş/
+T
+java:S1117p"7Rename "loc" which hides the field declared at line 45.(˜‘²8şŠÿ¨Ş/
+U
+java:S1117š"7Rename "loc" which hides the field declared at line 45.(˜‘²8şŠÿ¨Ş/
+[	java:S106­"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8şŠÿ¨Ş/
+Z
+java:S1117Ø"7Rename "loc" which hides the field declared at line 45.(”ï¶Üûÿÿÿÿ8şŠÿ¨Ş/
+U
+java:S1117Û"7Rename "loc" which hides the field declared at line 45.(ĞÎË—8şŠÿ¨Ş/
+Z
+java:S1117ı"7Rename "loc" which hides the field declared at line 45.(”ï¶Üûÿÿÿÿ8şŠÿ¨Ş/
+U
+java:S1117€"7Rename "loc" which hides the field declared at line 45.(ĞÎË—8şŠÿ¨Ş/
+[	java:S106ò"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8şŠÿ¨Ş/
+^	java:S125À"<This block of commented-out lines of code should be removed.( ñ¥Šúÿÿÿÿ8şŠÿ¨Ş/
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8şŠÿ¨Ş/
+[	java:S106÷"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8şŠÿ¨Ş/
+}
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8şŠÿ¨Ş/
+X
+java:S1118¶":Add a private constructor to hide the implicit public one.(ä¯ê¨8şŠÿ¨Ş/
+[	java:S106È"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8şŠÿ¨Ş/
+|
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8şŠÿ¨Ş/
+Z
+java:S1117¡"7Rename "buf" which hides the field declared at line 46.(ÀÑŸùÿÿÿÿ8şŠÿ¨Ş/
